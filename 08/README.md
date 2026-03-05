@@ -1,7 +1,7 @@
 # 08 | Deep Neural Network using TensorFlow High-Level Class API
 
 ## Walkthrough Video
-[▶ Walkthrough Video](https://drive.google.com/file/d/1dYS2HWG4YUeZZWgbYwWdM1ttDk483uOm/view?usp=sharing)
+[▶ Walkthrough Video](https://drive.google.com/file/d/1uYFbIH9-MwJdQfN4q7lFbi6GSkjG4Jsd/view?usp=sharing)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
