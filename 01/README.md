@@ -1,7 +1,7 @@
 # 01 | Deep Neural Network from Scratch using pure NumPy
 
 ## Walkthrough Video
-[▶ Walkthrough Video]([https://drive.google.com/file/d/1WkdfQ4rdey-8crlT0h3YU3sWmYPY0sm1/view?usp=sharing](https://drive.google.com/file/d/1TnQKIweEz84sISrNTt_D2hVqc47J1qgE/view?usp=sharing))
+[▶ Walkthrough Video](https://drive.google.com/file/d/1TnQKIweEz84sISrNTt_D2hVqc47J1qgE/view?usp=drive_link)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
