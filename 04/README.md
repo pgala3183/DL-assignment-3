@@ -1,7 +1,7 @@
 # 04 | Deep Neural Network using PyTorch Lightning
 
 ## Walkthrough Video
-[▶ Walkthrough Video]([https://drive.google.com/file/d/1kN1fpvZQUE90Ps-VTLvuxxF1c7gsk128/view?usp=sharing](https://drive.google.com/file/d/1q2VdBgBKbeZMdaJ1W59UCA1PaT11cyTM/view?usp=sharing))
+[▶ Walkthrough Video](https://drive.google.com/file/d/1q2VdBgBKbeZMdaJ1W59UCA1PaT11cyTM/view?usp=sharing)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
