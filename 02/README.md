@@ -1,7 +1,7 @@
 # 02 | Deep Neural Network using Manual PyTorch Tensors
 
 ## Walkthrough Video
-[▶ Walkthrough Video](https://drive.google.com/file/d/1-Kft3FFcCT3DWYVRoTHwPOVdC37S5oMi/view?usp=sharing)
+[▶ Walkthrough Video]([https://drive.google.com/file/d/1-Kft3FFcCT3DWYVRoTHwPOVdC37S5oMi/view?usp=sharing](https://drive.google.com/file/d/1m7MLWyfZTyfDuj_w-t3o8jCFAln4SMCq/view?usp=sharing))
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
