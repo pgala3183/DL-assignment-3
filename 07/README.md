@@ -1,7 +1,7 @@
 # 07 | Deep Neural Network using TensorFlow Functional API
 
 ## Walkthrough Video
-[▶ Walkthrough Video](https://drive.google.com/file/d/1t2tgzjM_mFaiQRHKeyoJLnFdgUQHhGbt/view?usp=sharing)
+[▶ Walkthrough Video](https://drive.google.com/file/d/1fAHQ7CIe4EERj-ss1ssY39p19SCt4x5o/view?usp=sharing)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
