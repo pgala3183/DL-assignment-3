@@ -1,7 +1,7 @@
 # 06 | Deep Neural Network using TensorFlow Built-in Keras Sequential API
 
 ## Walkthrough Video
-[▶ Walkthrough Video](https://drive.google.com/file/d/1VlqXBksHzFfPm6QRKD743KEIEQUdyfEs/view?usp=sharing)
+[▶ Walkthrough Video](https://drive.google.com/file/d/1UKvuL3H3dBBPo4UUAUe2ZH3rKMmcFIXF/view?usp=sharing)
 *(This video demonstrates code explanation, training output, loss curves, 4D visualization, and GitHub structure overview.)*
 
 ## Objective
